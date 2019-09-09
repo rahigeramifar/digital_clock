@@ -21,6 +21,6 @@ function go()
 			{
 			hour = "0" + hour;
 			}
-document.body.innerHTML= "<h1 The current time is "+ hour ":"+ minute +":" + seconds +"</h1>"
+document.body.innerHTML= "<h1> The current time is "+ hour ":"+ minute +":" + seconds +"</h1>"
 		//document.body.innerHTML= "<h1> The date today is  "+ (date.getMonth()+1) + "/" + date.getDate() + "/" + date.getFullYear() +"</h1>"
 	}
