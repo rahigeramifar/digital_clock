@@ -11,10 +11,6 @@ function go()
 				hour = hour - 12;
 				ampm = "PM";
 			}
-<<<<<<< HEAD
-=======
-
->>>>>>> 202cafcbf011e1900f12fb1ec81c9573652a013a
 		if (hour == 0)
 			{
 			hour = 12;
